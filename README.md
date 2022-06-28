@@ -18,7 +18,8 @@ INSTALLATION [Termux]
  •pkg install wget 
  •wget + (Download for Linux (ARM))
  •ls
- •cd 
+ •tar -xvf + (Downloaded file extensions)
+ •ls
  •./ngrok + (YOUR AUTHTOKEN 2nd command in ngrok.com) 
  •./ngrok http 8080
 ```
